@@ -14,7 +14,6 @@ https://ai-hr-agent-kamalsharma001.streamlit.app/
 
 ---
 
-
 # Features
 
 • Resume parsing from PDF files
@@ -30,6 +29,54 @@ https://ai-hr-agent-kamalsharma001.streamlit.app/
 • Downloadable hiring report
 
 ---
+
+# Screenshots
+
+To demonstrate the system, we use the following example job description:
+
+**Example Job Description**
+
+Looking for a Python Developer with:
+
+- Strong Python skills  
+- Experience in FastAPI or Django  
+- Knowledge of Machine Learning  
+- Understanding of REST APIs  
+- Good problem-solving skills  
+
+The AI HR Recruitment Agent analyzes uploaded resumes against this job description and produces candidate evaluations.
+
+---
+
+### Main UI
+
+The recruiter dashboard where users enter the job description and upload candidate resumes for analysis.
+
+![Main UI](screenshots/main_ui.png)
+
+---
+
+### Candidate Comparison
+
+The system compares candidates based on evaluation score and skill match percentage.
+
+![Candidate Comparison](screenshots/comparison.png)
+
+---
+
+### AI Hiring Decision
+
+The Hiring Decision Agent recommends the best candidate based on evaluation results and provides reasoning and next steps.
+
+![Hiring Decision](screenshots/decision.png)
+
+---
+
+### Interview Questions
+
+The system generates tailored interview questions for each candidate based on the job description and resume.
+
+![Interview Questions](screenshots/questions.png)
 
 # Multi-Agent Architecture
 
