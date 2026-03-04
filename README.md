@@ -8,11 +8,12 @@ The system helps recruiters quickly analyze resumes, identify skill gaps, rank c
 
 # Demo
 
-Deployed Streamlit App:
+You can try the application here:
 
-https://your-app-name.streamlit.app
+https://ai-hr-agent-kamalsharma001.streamlit.app/
 
 ---
+
 
 # Features
 
